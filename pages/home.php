@@ -10,11 +10,6 @@
         <a href="/number"> Наш номер </a>
         <a href="/catalog"> Каталог </a>
 
-
-
     </body>
 </html>
 
-<?php
-
-require_once __DIR__ . '/app/Router.php';

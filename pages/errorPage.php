@@ -5,6 +5,6 @@
     <title> Catalog </title>
 </head>
     <body>
-        <a href="/number"> Наш номер </a>
+        ошибка
     </body>
 </head>
