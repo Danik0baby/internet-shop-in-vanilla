@@ -2,9 +2,10 @@
 <html lang=ru>
 <head>
     <meta charset="UTF-8">
-    <title> Catalog </title>
+    <title> Продуктовый каталог </title>
 </head>
     <body>
         
+    
     </body>
 </head>
