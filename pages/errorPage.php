@@ -2,9 +2,7 @@
 <html lang=ru>
 <head>
     <meta charset="UTF-8">
-    <title> Catalog </title>
 </head>
-    <body>
-        ошибка
+    <body>Ошибка, что то не так
     </body>
 </head>
