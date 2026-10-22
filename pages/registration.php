@@ -20,7 +20,7 @@
             <br>
 
             <label> Повторите пароль </label>
-            <input name="password" required>
+            <input name="password_repeat" required>
             <br>
             <button type="submit"> Отправить </button>
         </form>
