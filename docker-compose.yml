@@ -1,4 +1,3 @@
-
 services:
     my_bd:
         image: mysql:8.0
